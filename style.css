@@ -26,3 +26,8 @@
 .card-btn:hover {
     background-color: #339668;
 }
+
+.font-bar {
+    font-size: 12px;
+    margin-left: 3px;
+}
