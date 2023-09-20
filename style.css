@@ -31,3 +31,8 @@
     font-size: 12px;
     margin-left: 3px;
 }
+
+.rounded-circle {
+    border: 1px solid white;
+    background-color: #5eab87;    
+}
